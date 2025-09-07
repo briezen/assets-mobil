@@ -7,36 +7,13 @@
 [![License](https://img.shields.io/badge/License-Education-blue)](#license)  
 [![Author](https://img.shields.io/badge/Author-Dandi%20Gustaf%20Zakhir-green)](#author)
 
-Website berbasis template *Mazer—free, open-source Bootstrap 5 Admin Dashboard—untuk pemenuhan **Ulangan Kenaikan Kelas XI RPL*, guna pencatatan penjualan mobil di showroom.
+Website berbasis template **Mazer**—free, open-source Bootstrap 5 Admin Dashboard—untuk pemenuhan **Ulangan Kenaikan Kelas XI RPL**, guna pencatatan penjualan mobil di showroom.
 
 ## ✨ Features
 - 📊 Dashboard interaktif
 - 📝 Form input penjualan mobil
 - 📑 Tabel data penjualan
 - 🔐 Login & Register
-
----
-
-## 📂 Project Structure
-
-Struktur folder project ini:
-
-assets-mobil/
-├── 📄 readme.md
-├── 📄 index.php
-├── 📄 login.php
-├── 📄 register.php
-├── 📄 dashboard.php
-├── 🎨 css/
-│   └── 📄 style.css
-├── 🖥️ js/
-│   └── 📄 app.js
-├── 🖼️ screenshots/
-│   ├── 🖼️ dashboard.png
-│   ├── 🖼️ form-input.png
-│   ├── 🖼️ tabel-penjualan.png
-│   ├── 🖼️ login.png
-│   └── 🖼️ register.png
 
 ## 📌 Deskripsi Singkat
 
