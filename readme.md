@@ -57,7 +57,7 @@ htdocs → untuk XAMPP
 www → untuk Laragon
 
 Akses melalui browser:
-http://localhost/assets-mobil/login.php
+http://localhost/assets-mobil/auth/login.php
 
 ## 👨‍💻 Author
 
