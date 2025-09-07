@@ -1,8 +1,3 @@
-Sip 🎉 aku udah berhasil generate struktur folder dari project kamu.
-Strukturnya lumayan panjang karena ada folder .git. Nanti di README biasanya folder .git gak perlu ditampilkan, biar fokus ke source code aja.
-
-Berikut contoh README.md dengan tambahan 📂 Project Structure:
-
 # 🚗 Assets Mobil
 
 Aplikasi manajemen penjualan mobil berbasis web.  
