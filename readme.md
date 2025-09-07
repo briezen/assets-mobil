@@ -42,25 +42,24 @@ Website berbasis template **Mazer**—free, open-source Bootstrap 5 Admin Dashbo
 ### Register
 ![Register](screenshots/register.png)
 
----
+## ⚙️ Installation
 
-## 🛠️ Installation
-
-1. Clone repository
+1. **Clone repository**
    ```bash
    git clone https://github.com/briezen/assets-mobil.git
    cd assets-mobil
-
+   
 2. Jalankan project (contoh dengan Laragon/XAMPP)
 
-Letakkan folder di htdocs (XAMPP) atau www (Laragon).
+Letakkan folder di:
+
+htdocs → untuk XAMPP
+www → untuk Laragon
 
 Akses melalui browser:
+http://localhost/assets-mobil/login.php
 
-http://localhost/assets-mobil
-
-
-👨‍💻 Author
+## 👨‍💻 Author
 
 Dandi Gustaf Zakhir
 
